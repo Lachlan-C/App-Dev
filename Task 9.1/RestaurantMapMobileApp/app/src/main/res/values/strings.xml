@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restaurant Map Mobile App</string>
+    <string name="title_activity_show_all_places">Map</string>
+    <string name="title_activity_show_one_place">Map</string>
+</resources>

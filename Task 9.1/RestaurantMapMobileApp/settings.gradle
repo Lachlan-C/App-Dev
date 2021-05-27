@@ -1,0 +1,2 @@
+rootProject.name = "Restaurant Map Mobile App"
+include ':app'
